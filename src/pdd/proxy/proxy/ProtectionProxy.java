@@ -4,6 +4,11 @@ package pdd.proxy.proxy;
 import pdd.proxy.ISubject;
 import pdd.proxy.entity.Subject;
 
+/**
+ * 
+ * @author beat
+ * @see Client
+ */
 public class ProtectionProxy implements ISubject {
 	
 	Subject subject;
